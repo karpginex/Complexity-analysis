@@ -1,0 +1,31 @@
+E:\Projects\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.exe.config
+E:\Projects\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.exe
+E:\Projects\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.pdb
+E:\Projects\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.csprojAssemblyReference.cache
+E:\Projects\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.csproj.CoreCompileInputs.cache
+E:\Projects\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.exe
+E:\Projects\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.pdb
+E:\7 триместр\Алгоритмы и анализ сложности\практ\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.exe.config
+E:\7 триместр\Алгоритмы и анализ сложности\практ\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.exe
+E:\7 триместр\Алгоритмы и анализ сложности\практ\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.pdb
+E:\7 триместр\Алгоритмы и анализ сложности\практ\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.csprojAssemblyReference.cache
+E:\7 триместр\Алгоритмы и анализ сложности\практ\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.exe
+E:\7 триместр\Алгоритмы и анализ сложности\практ\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.pdb
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.exe.config
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.exe
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\bin\Debug\GraphСoloring.pdb
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.csprojAssemblyReference.cache
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.csproj.CoreCompileInputs.cache
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.exe
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\obj\Debug\GraphСoloring.pdb
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\bin\Debug\input.txt
+C:\Users\utrob\Desktop\практ\GraphСoloring\GraphСoloring\bin\Debug\output.txt
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\bin\Debug\input.txt
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\bin\Debug\output.txt
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\obj\Debug\GraphСoloring.csprojAssemblyReference.cache
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\obj\Debug\GraphСoloring.csproj.CoreCompileInputs.cache
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\obj\Debug\GraphСoloring.exe
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\obj\Debug\GraphСoloring.pdb
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\bin\Debug\GraphСoloring.exe.config
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\bin\Debug\GraphСoloring.exe
+A:\МегаДиск\Учеба\УНИВЕР\10 триместр\Анализ сложности\Проект\GraphColoring\GraphСoloring\bin\Debug\GraphСoloring.pdb
